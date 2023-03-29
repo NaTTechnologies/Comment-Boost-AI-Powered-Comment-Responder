@@ -44,7 +44,7 @@ Para configurar ChatterBoost, sigue estos pasos:
 
 ## Licencia
 
-QuickNotes WP se distribuye bajo la licencia GPLv2 o posterior. Esto significa que puede utilizar y modificar el plugin de forma gratuita en sus proyectos personales o comerciales. Sin embargo, si redistribuye el plugin o una versión modificada, debe hacerlo bajo la misma licencia.
+ChatterBoost: AI-Powered Comment Responder se distribuye bajo la licencia GPLv2 o posterior. Esto significa que puede utilizar y modificar el plugin de forma gratuita en sus proyectos personales o comerciales. Sin embargo, si redistribuye el plugin o una versión modificada, debe hacerlo bajo la misma licencia.
 
 ## Nuestra Comunidad
 
